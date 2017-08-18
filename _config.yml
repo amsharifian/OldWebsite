@@ -1,5 +1,5 @@
 
-title: My Resume
+title: Amirali Sharifian Resume
 url: 'http://webjeda.com'
 baseurl: '/online-cv' #change it according to your repository name
 
@@ -13,17 +13,21 @@ baseurl: '/online-cv' #change it according to your repository name
 
 
 #Profile information
-name: Alan Doe
-tagline: Full Stack Developer
-pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+name: Amirali Sharifian
+tagline: PhD Student
+university: Simon Fraser University
+pic: amirali.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
-email: hello@webjeda.com
-phone: 012 345 6789
-website: blog.webjeda.com #do not add http://
-linkedin: alandoe
-github: sharu725
-twitter: '@webjeda'
+email: amiralis@sfu.ca
+phone: 778 952 3288
+#website: blog.webjeda.com #do not add http://
+# website: scholar.google.ca/citations?user=F6HjMj4AAAAJ&hl=en&oi=ao
+linkedin: amsharifian
+github: amsharifian
+twitter: '@amMoriss'
+dblp: amsharifian
+scholar: amsharifian
 
 
 # Tracker
