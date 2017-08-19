@@ -1,9 +1,15 @@
+exclude: ['README.md']
+timezone: US/Pacific
+
+markdown:         kramdown
+highlighter:      rouge
+
+permalink:        pretty
 
 title: Amirali Sharifian Resume
 url: 'http://www.sfu.ca/~amiralis/'
 baseurl: 'https://amsharifian.github.io'
 #baseurl: '/online-cv' #change it according to your repository name
-
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
 #style: styles-2
@@ -34,3 +40,7 @@ scholar: amsharifian
 # Tracker
 analytics: UA-85007315-1
 #Update all the sections by editing the files inside _includes folder.
+#
+#
+# Custom vars
+version:           1.0.0
